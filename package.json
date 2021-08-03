@@ -1,0 +1,24 @@
+{
+  "name": "codehub",
+  "version": "1.0.0",
+  "description": "codehub ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhiteNight8/codehub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhiteNight8/codehub/issues"
+  },
+  "homepage": "https://github.com/WhiteNight8/codehub#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "koa": "^2.13.1"
+  }
+}
